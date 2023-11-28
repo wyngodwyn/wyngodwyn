@@ -1,16 +1,29 @@
-### Hi there 👋
+# Godwyn Aquino
 
-<!--
-**wyngodwyn/wyngodwyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am Godwyn Aquino, a passionate coder with strong database management skills. I enjoy tackling complex problems and crafting elegant solutions. My tech journey began when I enrolled in the BS Information Technology program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- **BS Information Technology**
+  - New Era University
+  - 2021-Present
+
+## Certification
+
+- **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
+- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+- **SQL and Relational Databases 101**
+
+## Skill Sets
+
+- **Programming:** Java, Javascript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Connect with Me
+
+- **LinkedIn:** [LinkedIn Profile](LinkedIn_profile_link)
+- **Email:** juandelacruz@gmail.com
