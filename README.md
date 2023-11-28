@@ -26,4 +26,4 @@ I am Godwyn Aquino, a passionate coder with strong database management skills. I
 ## Connect with Me
 
 - **LinkedIn:** [LinkedIn Profile](LinkedIn_profile_link)
-- **Email:** juandelacruz@gmail.com
+- **Email:** aquinogoodwyn@gmail.com
